@@ -49,7 +49,7 @@
   @extend %button-base;
   color: $primary;
   background-color: transparent;
-  transition: color 200ms ease-in-out;
+  transition: background-color 200ms ease-in-out;
 
   &:not(:disabled):hover {
     color: $secondary;
