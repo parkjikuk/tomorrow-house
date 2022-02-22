@@ -1,4 +1,4 @@
-const slider = tns({
+const productCarousel = tns({
     container: '.product-carousel .slider-list',
     controls: false,
     navContainer: '.product-carousel .thumbnail-list',
